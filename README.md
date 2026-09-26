@@ -135,15 +135,10 @@ Estas pruebas permiten comprobar rutas normales, rutas en sentido contrario, rut
 
 - sistema_rutas.py: código fuente del sistema inteligente.
 - README.md: documentación e instrucciones del proyecto.
-- pruebas.pdf: documento con las pruebas realizadas.
 - video.txt: enlace al video de presentación del proyecto.
 
 ## 9. Video de presentación
 
 El video de presentación del proyecto se encuentra disponible en el siguiente enlace:
 
-PENDIENTE: https://drive.google.com/drive/folders/1vFLYUfwJh18x--uSX9LBUEQbVxMJ-pbe?usp=sharing
-
-## 10. Autores
-
-Proyecto desarrollado como actividad académica de Inteligencia Artificial.
+https://drive.google.com/drive/folders/1vFLYUfwJh18x--uSX9LBUEQbVxMJ-pbe?usp=sharing
